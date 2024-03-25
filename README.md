@@ -8,7 +8,7 @@ Le site de e-commerce brésilienne Olist souhaite une segmentation des clients�
 Etant consultante pour Olist, mon objectif est de comprendre les différents types d’utilisateurs grâce à leur comportement et à leurs données personnelles.
 
 
-### Données à disposition : 
+### Données à disposition 
 Données sur 100 000 commandes faites sur Olist de 2016 à 2018.
 Les principales variables sont : 
 - le statut de la commande
@@ -19,7 +19,7 @@ Les principales variables sont :
 - les notes des avis rédigés par les clients
 
 
-### Missions : 
+### Missions 
 Ma mission est d’aider les équipes d’Olist à comprendre les différents types d'utilisateurs.
 J'utilise donc des méthodes non supervisées pour regrouper des clients de profils similaires. Ces catégories pourront être utilisées par l’équipe Marketing pour mieux communiquer.
 
@@ -28,7 +28,7 @@ Les documents à fournir à l’équipe marketing sont :
 - une proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps pour savoir la fréquence à laquelle la segmentation doit être mise à jour pour rester pertinente
 
 
-## Compétences évaluées :
+## Compétences évaluées
 - Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer
 - Évaluer les performances d’un modèle d'apprentissage non supervisé
 - Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
